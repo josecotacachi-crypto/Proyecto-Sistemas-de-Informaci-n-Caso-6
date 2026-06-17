@@ -1,0 +1,6 @@
+{
+  "name": "Rutas Enredadas",
+  "description": "Nutrición sostenible a golpe de pedal en Coquimbo, Chile. Dashboard de operaciones, ruta optimizada de repartidores y menú interactivo de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
